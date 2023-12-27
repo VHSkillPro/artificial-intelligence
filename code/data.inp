@@ -1,0 +1,10 @@
+7
+a b
+a b -> c
+a b -> f
+g t -> e
+a c -> d
+d f -> e
+a f -> t
+c g -> e
+e
